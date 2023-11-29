@@ -23,7 +23,7 @@
                 foreach (var item in words[i])
                 {
                     Console.WriteLine(item);
-                    words[2][0].Split(",");
+                    words[2][3].Split(",");
 
                 }
                 Console.WriteLine();
